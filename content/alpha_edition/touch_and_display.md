@@ -77,6 +77,11 @@ Max Resolution from different physical display output channels on Alpha:
 While the LattePanda Alpha/Delta eDP display is officially supported, here are some other displays community members have gotten working.
 
 * [15.6" Samsung Display](http://www.lattepanda.com/topic-p25460.html)
+* [15.6" auo display B156XTN04.6](http://www.panelook.com/B156XTN04.6_AUO_15.6_LCM_overview_26577.html)
+  * 60 fps 1366x768
+* [15.6" innolux display N156HHE-GA1](http://www.panelook.com/N156HHE-GA1_Innolux_15.6_LCM_parameter_33306.html)
+  * 120 fps 1920x1080
+  * i apparently broke my screen so al i kniw is that it lights up have buy a new one and test it.
 * [17.3" Display no bios update needed](https://www.lattepanda.com/topic-f23t17107.html?start=11)
 
 ## Touch Panel

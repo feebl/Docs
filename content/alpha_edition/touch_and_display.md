@@ -52,6 +52,8 @@ Max Resolution from different physical display output channels on Alpha:
 
 ## Embedded DisplayPort (eDP)
 
+
+
 !!! note 
     Using a 3rd party eDP display may not have driver support. In order to use a 3rd party display, it may require the development of a driver.
 
@@ -81,10 +83,15 @@ While the LattePanda Alpha/Delta eDP display is officially supported, here are s
   * 60 fps 1366x768
 * [15.6" innolux display N156HHE-GA1](http://www.panelook.com/N156HHE-GA1_Innolux_15.6_LCM_parameter_33306.html)
   * 120 fps 1920x1080
-  * i apparently broke my screen so al i kniw is that it lights up have buy a new one and test it.
+  * tested on a broken screen dont know if it displays correctly
 * [17.3" Display no bios update needed](https://www.lattepanda.com/topic-f23t17107.html?start=11)
 
 ## Touch Panel
+
+- chip sipex
+  - sp3243euey
+  - 1802l
+  - ta41817
 
 ### What You Will Need
 
